@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "async": "~1.0.0",
-    "debug": "^2.1.1",
+    "debug": "github:fernandomorais/debug#feature/v2.2.0_DomainLogger",
     "depd": "^1.0.0",
     "eslint": "^2.9.0",
     "inflection": "^1.6.0",
